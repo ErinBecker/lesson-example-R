@@ -6,3 +6,4 @@ Collaborative Lesson Development. It will be deleted in a couple days and has no
 ## Authors
 * [Erin Becker](http://github.com/erinbecker)
 * [Toby Hodges](http://github.com/tobyhodges)
+* [Another Person](http://github.com/anotherperson)
