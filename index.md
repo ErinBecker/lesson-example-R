@@ -2,8 +2,18 @@
 site: sandpaper::sandpaper_site
 ---
 
-This is a new lesson built with [The Carpentries Workbench][workbench]. 
+### Learning Objectives
 
+- List 1
+- List 2
+- List 3
 
-[workbench]: https://carpentries.github.io/sandpaper-docs
+::::::::: prereq 
+
+Before taking this lesson, learners need to know how to do: 
+- thing 1
+- thing 2
+  
+::::::::::::::
+
 
