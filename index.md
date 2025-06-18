@@ -8,7 +8,7 @@ site: sandpaper::sandpaper_site
 - List 2
 - List 3
 
-::::::::: preq 
+::::::::: prereq 
 
 Before taking this lesson, learners need to know how to do: 
 - thing 1
