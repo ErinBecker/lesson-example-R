@@ -67,6 +67,7 @@ contact: 'ebecker@carpentries.org' # FIXME
 # Order of episodes in your lesson
 episodes: 
 - introduction.Rmd
+- maths.Rmd
 
 # Information for Learners
 learners: 
