@@ -34,7 +34,7 @@ life_cycle: 'pre-alpha' # FIXME
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://erinbecker.github.io/lesson-example-R/' # FIXME
+source: 'https://github.com/erinbecker/lesson-example-R/'
 
 # Default branch of your lesson
 branch: 'main'
